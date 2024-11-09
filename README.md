@@ -54,11 +54,11 @@ This repository contains an AI-powered healthcare application designed to enhanc
 
 ## Diagram
 
-![Architecture and User Flow](https://github.com/yash-0300/MedCareAI/Images/MedCareAI_Tech.png)
+![Architecture and User Flow](https://github.com/yash-0300/MedCareAI/blob/main/Images/MedCareAI_Tech.png)
 
 ## Screenshot
 
-![Architecture and User Flow](https://github.com/yash-0300/MedCareAI/Images/medcareai_ss1.png)
+![Application Home Page](https://github.com/yash-0300/MedCareAI/blob/main/Images/medcareai_ss1.png)
 
 ## Contributing
 
